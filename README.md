@@ -125,6 +125,5 @@ Base URL: `/api/employees`
 - Not-found lookups return a `404` via a custom `ResourceNotFoundException`.
 - The frontend expects the backend to be reachable (update the base URL in `src/services/EmployeeService.js` if the backend runs on a different host/port).
 
-## License
-
-No license specified.
+## Linkedin Post / Project Video
+https://www.linkedin.com/feed/update/urn:li:activity:7485289340089217025/
